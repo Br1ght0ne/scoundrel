@@ -1,0 +1,63 @@
+H: 20, W:  0 (M:  0), D: 40, R: AC 4H 8C KS, avoid? yes
+H: 20, W:  0 (M:  0), D: 40, R: AS 5H 9C 3S: 3S
+H: 17, W:  0 (M:  0), D: 39, R: AS 5H 9C: 9C
+H:  8, W:  0 (M:  0), D: 38, R: AS 5H: 5H
+H: 13, W:  0 (M:  0), D: 37, R: AS 6D TD JC, avoid? no
+H: 13, W:  0 (M:  0), D: 37, R: AS 6D TD JC: TD
+H: 13, W: 10 (M:  0), D: 36, R: AS 6D JC: AS
+H: 13, W: 10 (M:  0), D: 36, R: AS 6D JC, use weapon? yes
+H:  9, W: 10 (M: 14), D: 35, R: 6D JC: JC
+H:  9, W: 10 (M: 14), D: 35, R: 6D JC, use weapon? yes
+H:  8, W: 10 (M: 11), D: 34, R: 6D 5S 6H 4C, avoid? no
+H:  8, W: 10 (M: 11), D: 34, R: 6D 5S 6H 4C: 5S
+H:  8, W: 10 (M: 11), D: 34, R: 6D 5S 6H 4C, use weapon? yes
+H:  8, W: 10 (M:  5), D: 33, R: 6D 6H 4C: 4C
+H:  8, W: 10 (M:  5), D: 33, R: 6D 6H 4C, use weapon? yes
+H:  8, W: 10 (M:  4), D: 32, R: 6D 6H: 6H
+H: 14, W: 10 (M:  4), D: 31, R: 6D 6S KC TC, avoid? yes
+H: 14, W: 10 (M:  4), D: 31, R: 5D 4D 9H 2H: 4D
+H: 14, W:  4 (M:  0), D: 30, R: 5D 9H 2H: 5D
+H: 14, W:  5 (M:  0), D: 29, R: 9H 2H: 2H
+H: 16, W:  5 (M:  0), D: 28, R: 9H 9D TH 7S, avoid? no
+H: 16, W:  5 (M:  0), D: 28, R: 9H 9D TH 7S: 7S
+H: 16, W:  5 (M:  0), D: 28, R: 9H 9D TH 7S, use weapon? yes
+H: 14, W:  5 (M:  7), D: 27, R: 9H 9D TH: 9D
+H: 14, W:  9 (M:  0), D: 26, R: 9H TH: 9H
+H: 20, W:  9 (M:  0), D: 25, R: TH 2D 2C 3C, avoid? yes
+H: 20, W:  9 (M:  0), D: 25, R: 9S 8D 3H 8H: 9S
+H: 20, W:  9 (M:  0), D: 25, R: 9S 8D 3H 8H, use weapon? yes
+H: 20, W:  9 (M:  9), D: 24, R: 8D 3H 8H: 8D
+H: 20, W:  8 (M:  0), D: 23, R: 3H 8H: 3H
+H: 20, W:  8 (M:  0), D: 22, R: 8H 7D QC 4S, avoid? no
+H: 20, W:  8 (M:  0), D: 22, R: 8H 7D QC 4S: QC
+H: 20, W:  8 (M:  0), D: 22, R: 8H 7D QC 4S, use weapon? yes
+H: 16, W:  8 (M: 12), D: 21, R: 8H 7D 4S: 4S
+H: 16, W:  8 (M: 12), D: 21, R: 8H 7D 4S, use weapon? no
+H: 12, W:  8 (M: 12), D: 20, R: 8H 7D: 8H
+H: 20, W:  8 (M: 12), D: 19, R: 7D TS 7H 2S, avoid? no
+H: 20, W:  8 (M: 12), D: 19, R: 7D TS 7H 2S: TS
+H: 20, W:  8 (M: 12), D: 19, R: 7D TS 7H 2S, use weapon? yes
+H: 18, W:  8 (M: 10), D: 18, R: 7D 7H 2S: 2S
+H: 18, W:  8 (M: 10), D: 18, R: 7D 7H 2S, use weapon? yes
+H: 18, W:  8 (M:  2), D: 17, R: 7D 7H: 7D
+H: 18, W:  7 (M:  0), D: 16, R: 7H 5C 8S JS, avoid? no
+H: 18, W:  7 (M:  0), D: 16, R: 7H 5C 8S JS: JS
+H: 18, W:  7 (M:  0), D: 16, R: 7H 5C 8S JS, use weapon? yes
+H: 14, W:  7 (M: 11), D: 15, R: 7H 5C 8S: 8S
+H: 14, W:  7 (M: 11), D: 15, R: 7H 5C 8S, use weapon? yes
+H: 13, W:  7 (M:  8), D: 14, R: 7H 5C: 5C
+H: 13, W:  7 (M:  8), D: 14, R: 7H 5C, use weapon? yes
+H: 13, W:  7 (M:  5), D: 13, R: 7H QS 3D 7C, avoid? yes
+H: 13, W:  7 (M:  5), D: 13, R: 6C AC 4H 8C: 8C
+H:  5, W:  7 (M:  5), D: 12, R: 6C AC 4H: 4H
+H:  9, W:  7 (M:  5), D: 11, R: 6C AC: 6C
+H:  3, W:  7 (M:  5), D: 10, R: AC KS 6D 6S, avoid? yes
+H:  3, W:  7 (M:  5), D: 10, R: KC TC TH 2D: TH
+H: 13, W:  7 (M:  5), D:  9, R: KC TC 2D: 2D
+H: 13, W:  2 (M:  0), D:  8, R: KC TC: KC
+H: 13, W:  2 (M:  0), D:  8, R: KC TC, use weapon? yes
+H:  2, W:  2 (M: 13), D:  7, R: TC 2C 3C 7H, avoid? yes
+H:  2, W:  2 (M: 13), D:  7, R: QS 3D 7C AC: 3D
+H:  2, W:  3 (M:  0), D:  6, R: QS 7C AC: AC
+H:  2, W:  3 (M:  0), D:  6, R: QS 7C AC, use weapon? yes
+Lost! Score: -34

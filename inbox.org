@@ -1,0 +1,4 @@
+* TODO Refactor into modules
+* TODO Better prompts
+* TODO Custom rulesets
+* TODO Proper TUI (maybe)
