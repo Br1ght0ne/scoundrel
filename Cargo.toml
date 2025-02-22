@@ -1,5 +1,8 @@
 [package]
 name = "scoundrel-cards"
+description = "Scoundrel (playing card roguelike) in Rust"
+license = "MIT"
+repository = "https://github.com/Br1ght0ne/scoundrel"
 version = "0.1.0"
 edition = "2021"
 
