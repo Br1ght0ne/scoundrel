@@ -15,11 +15,6 @@ jobs:
     steps:
     - uses: actions/checkout@v4
     - uses: Swatinem/rust-cache@v2
-    - uses: actions-rs/cargo@v1
-      with:
-        command: build
+    - run: cargo build
     - uses: taiki-e/install-action@nextest
-    - uses: actions-rs/cargo@v1
-      with:
-        command: nextest
-        args: run
+    - run: cargo nextest run
