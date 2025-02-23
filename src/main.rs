@@ -218,3 +218,14 @@ fn main() -> Result<()> {
     println!("{:?}! Score: {}", result.outcome, result.score);
     Ok(())
 }
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    fn test_setup() {
+        let game = Game::setup();
+        assert_eq!(game.dungeon.len(), 44);
+    }
+}
